@@ -1,6 +1,6 @@
 ## 🙋‍♂️ Hi there! I am Jemuel Malaga
 
-**INTERFACE ARTISAN (Design/Frontend Enthusiast)**
+**`INTERFACE ARTISAN (Design/Frontend Enthusiast)`**
 
 My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern techonology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant frameworks, fills me with passion for engineering functional, user-centric systems.
 
@@ -17,10 +17,10 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 
 ### 📚 LANGUAGES AND TOOLS - Still Learning!
 
-<img align="left" alt="HTML" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
-<img align="left" alt="CSS" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
-<img align="left" alt="Java" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"/>
+<img align="left" alt="HTML" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
+<img align="left" alt="CSS" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
+<img align="left" alt="Java" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="C++" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
 <img align="left" alt="MySQL" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
 <img align="left" alt="PHP" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
 <img align="left" alt="Figma" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
