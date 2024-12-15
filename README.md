@@ -9,8 +9,8 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 ### 🌏SOCIALS - Connect with Me!
 
 <p align="left">
-  <a href="https://www.facebook.com/jemuel.malaga.023/">
-    <img width="30px" style="padding-right:50px" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
+  <a width="30px" style="padding-right:10px" href="https://www.facebook.com/jemuel.malaga.023/">
+    <img width="30px" style="padding-right:10px" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
   </a>
   <a></a>
   <a href="https://www.linkedin.com/in/jemuel-malaga-870740287/">
