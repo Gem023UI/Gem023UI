@@ -9,7 +9,7 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 ### 🌏SOCIALS - Connect with Me!
 
 <img align="left" alt="Facebook" width="30px" style"padding-right:10px;" href="https://www.facebook.com/jemuel.malaga.023/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-<img align="left" alt="LinkedIn" width="30px" style"padding-right:10px;" href="https://www.linkedin.com/in/jemuel-malaga-870740287/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img href="https://www.linkedin.com/in/jemuel-malaga-870740287/" align="left" alt="LinkedIn" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
 <img align="left" alt="Gmail" width="30px" style"padding-right:10px;" href="malagajemuel@gmail.com" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 <br />
 
