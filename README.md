@@ -2,7 +2,7 @@
 
 **`INTERFACE ARTISAN (Design/Frontend Enthusiast)`**
 
-My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern techonology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant frameworks, fills me with passion for engineering functional, user-centric systems.
+My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern technology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant frameworks, fills me with passion for engineering functional, user-centric systems.
 
 ---
 
