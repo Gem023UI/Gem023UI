@@ -8,9 +8,9 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 
 ### 🌏SOCIALS - Connect with Me!
 
-<img align="left" alt="Facebook" width="30px" style"padding-right:10px;" href="https://www.facebook.com/jemuel.malaga.023/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"/>
-<img align="left" alt="LinkedIn" width="30px" style"padding-right:10px;" href="https://www.linkedin.com/in/jemuel-malaga-870740287/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
-<img align="left" alt="Gmail" width="30px" style"padding-right:10px;" href="malagajemuel@gmail.com" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"/>
+<img align="left" alt="Facebook" width="30px" style"padding-right:10px;" href="https://www.facebook.com/jemuel.malaga.023/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
+<img align="left" alt="LinkedIn" width="30px" style"padding-right:10px;" href="https://www.linkedin.com/in/jemuel-malaga-870740287/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<img align="left" alt="Gmail" width="30px" style"padding-right:10px;" href="malagajemuel@gmail.com" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
 <br />
 
 #
@@ -19,11 +19,11 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="C++" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/>
-<img align="left" alt="MySQL" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/>
-<img align="left" alt="PHP" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
-<img align="left" alt="Figma" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+<img align="left" alt="C++" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
+<img align="left" alt="MySQL" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="left" alt="PHP" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" alt="Figma" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <br />
 
 #
