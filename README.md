@@ -1,4 +1,4 @@
-## 🙋‍♂️ Hi there! I am Jemuel Malaga
+# 🙋‍♂️ Hi there! I am Jemuel Malaga
 
 **`INTERFACE ARTISAN (Design/Frontend Enthusiast)`**
 
@@ -12,6 +12,7 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
   <a href="https://www.facebook.com/jemuel.malaga.023/">
     <img width="30px" style="padding-right:10px" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
   </a>
+  <a></a>
   <a href="https://www.linkedin.com/in/jemuel-malaga-870740287/">
     <img width="30px" style="padding-right:10px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
   </a>
