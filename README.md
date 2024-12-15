@@ -8,10 +8,17 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 
 ### 🌏SOCIALS - Connect with Me!
 
-<img align="left" alt="Facebook" width="30px" style"padding-right:10px;" href="https://www.facebook.com/jemuel.malaga.023/" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" />
-<img href="https://www.linkedin.com/in/jemuel-malaga-870740287/" align="left" alt="LinkedIn" width="30px" style"padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-<img align="left" alt="Gmail" width="30px" style"padding-right:10px;" href="malagajemuel@gmail.com" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg" />
-<br />
+<p align="left">
+  <a href="https://www.facebook.com/jemuel.malaga.023/">
+    <img width="30px" style="padding-right:10px" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/jemuel-malaga-870740287/">
+    <img width="30px" style="padding-right:10px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
+  </a>
+  <a href=""malagajemuel@gmail.com">
+    <img width="30px" style="padding-right:10px" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg">
+  </a>
+</p>
 
 #
 
