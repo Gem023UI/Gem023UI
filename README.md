@@ -1,4 +1,4 @@
-[![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdifferent-types-stacks-web-development-zuraiz-khan&psig=AOvVaw0eX-laOGmvkJsY1mINqLXm&ust=1734416422918000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDig-rSq4oDFQAAAAAdAAAAABAE)]
+[![MasterHead]()]
 
 # 🙋‍♂️ Hi there! I'm Jemuel Malaga
 
