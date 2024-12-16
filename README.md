@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://github.com/Gem023UI/Gem023UI/blob/main/1693753179836.gif" alt="Custom Masthead" style="width: 100%; max-width: 1000px; height: auto;">
+  <img src="https://github.com/Gem023UI/Gem023UI/blob/main/1693753179836.gif" alt="Custom Masthead" style="width: 100%; height: auto;">
 </div>
-
-
 
 <h1 align="center">🙋‍♂️ Hi there! I'm Jemuel Malaga</h1>
 
