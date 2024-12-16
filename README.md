@@ -1,4 +1,4 @@
-# 🙋‍♂️ Hi there! I am Jemuel Malaga
+# 🙋‍♂️ Hi there! I'm Jemuel Malaga
 
 **`INTERFACE ARTISAN (Design/Frontend Enthusiast)`**
 
