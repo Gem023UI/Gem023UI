@@ -12,15 +12,11 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 
 <p align="left">
   <a href="https://www.facebook.com/jemuel.malaga.023/" >
-    <img alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40">
-  </a>
-  <a></a>
+    <img width="30px" style="padding-right:10px" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg"></a>
   <a href="https://www.linkedin.com/in/jemuel-malaga-870740287/">
-    <img width="30px" style="padding-right:10px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg">
-  </a>
+    <img width="30px" style="padding-right:10px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"></a>
   <a href=""malagajemuel@gmail.com">
-    <img width="30px" style="padding-right:10px" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg">
-  </a>
+    <img width="30px" style="padding-right:10px" alt="Gmail" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/google/google-original.svg"></a>
 </p>
 
 #
