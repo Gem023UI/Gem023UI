@@ -1,3 +1,5 @@
+[![Masterhead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fdifferent-types-stacks-web-development-zuraiz-khan&psig=AOvVaw0eX-laOGmvkJsY1mINqLXm&ust=1734416422918000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDig-rSq4oDFQAAAAAdAAAAABAE)]
+
 # 🙋‍♂️ Hi there! I'm Jemuel Malaga
 
 **`INTERFACE ARTISAN (Design/Frontend Enthusiast)`**
@@ -9,8 +11,8 @@ My coding aspiration lies in the endless possibility of visualizing digital craf
 ### 🌏SOCIALS - Connect with Me!
 
 <p align="left">
-  <a href="https://www.facebook.com/jemuel.malaga.023/">
-    <img width="30px" style="padding-right:10px" alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg">
+  <a href="https://www.facebook.com/jemuel.malaga.023/" >
+    <img alt="Facebook" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/facebook/facebook-original.svg" width="40" height="40">
   </a>
   <a></a>
   <a href="https://www.linkedin.com/in/jemuel-malaga-870740287/">
