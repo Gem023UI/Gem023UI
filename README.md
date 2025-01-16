@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Gem023UI/Gem023UI/blob/main/mymasthead.mp4" alt="Custom Masthead">
+  <img src="https://github.com/Gem023UI/Gem023UI/blob/main/Untitled design.gif" alt="Custom Masthead">
 </div>
 
 <h1 align="center">🙋‍♂️ Hi there! I'm Jemuel Malaga</h1>
