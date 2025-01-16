@@ -1,4 +1,4 @@
-<h1 align="center">🙋‍♂️ Greetings, I am Jemuel Malaga</h1> 
+<h1 align="center">Greetings, I am Jemuel Malaga</h1> 
 
 <div align="center" style="width: 100%; display: block;">
   <img 
