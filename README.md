@@ -1,6 +1,10 @@
-<div align="center" style="width:100%; height:auto; object-fit:cover; max-width:100%; display:block;">
-  <img src="https://github.com/Gem023UI/Gem023UI/blob/main/Untitled design.gif" alt="Custom Masthead">
+<div align="center" style="width: 100%; display: block;">
+  <img 
+    src="https://github.com/Gem023UI/Gem023UI/raw/main/Untitled design.gif" 
+    alt="Custom Masthead" 
+    style="width: 100%; height: auto; object-fit: cover; max-width: 100%; display: block;">
 </div>
+
 
 <h1 align="center">🙋‍♂️ Hi there! I'm Jemuel Malaga</h1>
 
