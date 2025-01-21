@@ -15,7 +15,7 @@
 
 <h2 align="center">TECH TOOLS - Still Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql,php,laravel,java,figma,php,html,css,wordpress,git,github" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql,php,laravel,java,figma,wordpress,git,github,vscode,visualstudio" />
 </p>
 
 ---
