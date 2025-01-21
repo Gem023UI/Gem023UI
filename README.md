@@ -38,20 +38,11 @@
 
 ---
 
-<h2 align="center">⚙GITHUB STATS</h2>
+<h2 align="center">Github Stats</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gem023UI&show_icons=true&theme=algolia&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gem023UI&layout=compact&langs_count=10&theme=algolia" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gem023UI&theme=algolia" alt="GitHub Streak Stats" />
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gem023UI&theme=algolia" alt="GitHub Streak Stats" />
-</div>
-
-
----
-### 📊 STATS
-
-![Gem023UI's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gem023UI&show_icons=true&theme=algolia)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Gem023UI&theme=algolia)](https://git.io/streak-stats)
