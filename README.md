@@ -13,6 +13,13 @@
 
 ---
 
+<h2 align="center">TECH TOOLS - Still Learning</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql,php,laravel,java,figma,php,html,css,wordpress,git,github" />
+</p>
+
+---
+
 <h2 align="center">SOCIALS - Connect with Me</h2>
 <p align="center">
   <a href="https://instagram.com/chase.jml" target="_blank">
