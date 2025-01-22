@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{Gem023UI}/count.svg"/>
+</div>
+
+---
+
 <div align="center" style="width: 100%; display: block;">
   <img 
     src="https://github.com/Gem023UI/Gem023UI/raw/main/mymasthead.gif" 
@@ -7,7 +13,9 @@
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Greetings%2C+I+am+Jemuel+Malaga)](https://git.io/typing-svg)
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Greetings%2C+I+am+Jemuel+Malaga"/>
+</div>
 
 **`My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern technology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant frameworks, fills me with passion for engineering functional, user-centric systems.`**
 
@@ -42,7 +50,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gem023UI&show_icons=true&theme=algolia&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gem023UI&layout=compact&langs_count=10&theme=algolia" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gem023UI&layout=compact&langs_count=10&theme=algolia"/>
+  <img height="180cm" src="https://streak-stats.demolab.com?user=Gem023UI&theme=algolia"/>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Gem023UI&theme=algolia)](https://git.io/streak-stats)
