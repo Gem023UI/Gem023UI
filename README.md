@@ -46,7 +46,7 @@
 
 ---
 
-<h2 align="center">Github Stats</h2>
+<h2 align="center">GITHUB STATS</h2>
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gem023UI&show_icons=true&theme=algolia&count_private=true"/>
