@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Greetings%2C+I+am+Jemuel+Malaga"/>
 </div>
 
-**`My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern technology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant frameworks, fills me with passion for engineering functional, user-centric systems.`**
+**`My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern technology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant projects, fills me with passion for engineering functional, user-centric systems.`**
 
 ---
 
