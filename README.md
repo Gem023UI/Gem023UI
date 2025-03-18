@@ -6,7 +6,7 @@
 
 <div align="center" style="width: 100%; display: block;">
   <img 
-    src="https://github.com/Gem023UI/Gem023UI/raw/main/mymasthead.gif" 
+    src="https://github.com/Gem023UI/Gem023UI/blob/main/spidermanintospiderverse1.gif" 
     alt="Custom Masthead" 
     style="width: 100%; height: auto; object-fit: cover; max-width: 100%; display: block;">
 </div>
