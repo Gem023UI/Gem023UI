@@ -4,9 +4,9 @@
 
 ---
 
-<div align="center" style="width: 100%; display: block;">
+<div style="width: 100%; display: flex; justify-content: center; align-items: center; overflow: hidden;">
   <img 
-    src="https://github.com/Gem023UI/Gem023UI/blob/main/spidermanintospiderverse1.gif" 
+    src="https://github.com/Gem023UI/Gem023UI/blob/main/spidermanacrossspiderverse.gif" 
     alt="Custom Masthead" 
     style="width: 100%; height: auto; object-fit: cover; max-width: 100%; display: block;">
 </div>
