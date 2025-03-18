@@ -28,7 +28,7 @@
 
 ---
 
-<h2 align="center">SOCIALS - Connect with Me</h2>
+<h2 align="center" style="text-decoration: none">SOCIALS - Connect with Me</h2>
 <p align="center">
   <a href="https://instagram.com/chase.jml" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
