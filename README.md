@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://profile-counter.glitch.me/{Gem023UI}/count.svg"/>
-</div>
-
----
-
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; overflow: hidden;">
   <img 
     src="https://github.com/Gem023UI/Gem023UI/blob/main/becoming.png" 
@@ -13,17 +7,9 @@
 
 ---
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Greetings%2C+I+am+Jemuel+Malaga"/>
-</div>
-
-**`worried sa job market hfahsrae`**
-
----
-
 <h2 align="center">TECH TOOLS - Still Learning</h2>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql,php,laravel,java,figma,wordpress,git,github,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=cpp,cs,html,css,mysql,php,laravel,java,javascript,nodejs,wordpress,figma,git,github,vscode,visualstudio,blender," />
 </p>
 
 ---
@@ -54,3 +40,8 @@
   <img height="180cm" src="https://streak-stats.demolab.com?user=Gem023UI&theme=algolia"/>
 </div>
 
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/{Gem023UI}/count.svg"/>
+</div>
