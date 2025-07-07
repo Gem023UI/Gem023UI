@@ -6,7 +6,7 @@
 
 <div style="width: 100%; display: flex; justify-content: center; align-items: center; overflow: hidden;">
   <img 
-    src="https://github.com/Gem023UI/Gem023UI/blob/main/spidermanacrossspiderverse.gif" 
+    src="https://github.com/Gem023UI/Gem023UI/blob/main/becoming.png" 
     alt="Custom Masthead" 
     style="width: 100%; height: auto; object-fit: cover; max-width: 100%; display: block;">
 </div>
@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=700&size=25&pause=1000&color=F7F7F7&vCenter=true&width=435&lines=Greetings%2C+I+am+Jemuel+Malaga"/>
 </div>
 
-**`My coding aspiration lies in the endless possibility of visualizing digital craftsmanship, bridging the gap between aesthetics and modern technology. The idea of fruition, rooting from our own creative epiphanies into a manifestation of visually notable and relevant projects, fills me with passion for engineering functional, user-centric systems.`**
+**`worried sa job market hfahsrae`**
 
 ---
 
